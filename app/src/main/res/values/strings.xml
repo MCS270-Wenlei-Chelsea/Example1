@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Example1</string>
+    <string name="true_string">True</string>
+    <string name="false_string">False</string>
+    <string name="correct_string">This is correct</string>
+    <string name="incorrect_string">This is incorrect</string>
+    <string name="next_string">Next</string>
+    <string name="previous_string">Prev</string>
+    <string name="judgment_toast">Cheating is wrong</string>
+    <string name="cheat_string">cheat</string>
+
+    <string name="question1">Question 1: context </string>
+    <string name="question2">Question 2: context </string>
+    <string name="question3">Question 3: context </string>
+    <string name="question4">Question 4: context </string>
+    <string name="question5">Question 5: context </string>
+    <string name="grade">grade is</string>
+    <string name="show_answer_button">show me the answer</string>
+
+    <string name="title_activity_cheat">CheatActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
