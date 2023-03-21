@@ -48,6 +48,7 @@ class QuizViewModel (private val savedStateHandle: SavedStateHandle): ViewModel(
     }
 
     fun skip() {
-        currentIndex= (currentIndex + 2) % questionBank.size
+        buttonClicked()
+        currentIndex= (currentIndex + 1) % questionBank.size
     }
 }
