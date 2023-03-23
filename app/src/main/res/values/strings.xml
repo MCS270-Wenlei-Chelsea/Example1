@@ -8,6 +8,7 @@
     <string name="previous_string">Prev</string>
     <string name="judgment_toast">Cheating is wrong</string>
     <string name="cheat_string">cheat</string>
+    <string name="skip_string">Skip Question</string>
 
     <string name="question1">Question 1: context </string>
     <string name="question2">Question 2: context </string>

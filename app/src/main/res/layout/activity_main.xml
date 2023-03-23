@@ -29,14 +29,25 @@
         android:layout_height="wrap_content"
         android:text="@string/false_string"/>
     </LinearLayout>
-    <Button
-        android:id = "@+id/cheat_button"
-        android:layout_width = "wrap_content"
-        android:layout_height = "wrap_content"
-        android:layout_marginTop = "10dp"
-        android:layout_marginBottom = "10dp"
-        android:text= "@string/cheat_string"
-        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id = "@+id/cheat_button"
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:layout_marginTop = "10dp"
+            android:layout_marginBottom = "10dp"
+            android:text= "@string/cheat_string"
+            />
+        <Button
+            android:id="@+id/skip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/skip_string"/>
+    </LinearLayout>
+
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -52,5 +63,4 @@
             android:layout_height="wrap_content"
             android:text="@string/next_string"/>
     </LinearLayout>
-
 </LinearLayout>

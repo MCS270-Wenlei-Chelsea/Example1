@@ -81,6 +81,11 @@ class MainActivity : AppCompatActivity() {
             updateQuestion()
         }
 
+        binding.skip.setOnClickListener {
+            quizViewModel.skip()
+            updateQuestion()
+        }
+
         updateQuestion()
     }
 
