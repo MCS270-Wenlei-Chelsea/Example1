@@ -10,11 +10,11 @@
     <string name="cheat_string">cheat</string>
     <string name="skip_string">Skip</string>
 
-    <string name="question1">Question 1: context </string>
-    <string name="question2">Question 2: context </string>
-    <string name="question3">Question 3: context </string>
-    <string name="question4">Question 4: context </string>
-    <string name="question5">Question 5: context </string>
+    <string name="question1">Gustavus was founded in 1865</string>
+    <string name="question2">The spire on the chapel was destroyed in a tornado</string>
+    <string name="question3">The cafeteria is located in Nobel Hall</string>
+    <string name="question4">Norelius Hall is also known as Co-Ed</string>
+    <string name="question5">Old Main houses the business department</string>
     <string name="grade">grade is</string>
     <string name="show_answer_button">show me the answer</string>
     <string name="back_button">Back to questions</string>
