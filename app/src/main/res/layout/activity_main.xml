@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:padding="24dp"
-        android:text="Hello World, Wenlei AND Chelsea"/>
+        android:text="@string/question1"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -45,6 +45,8 @@
             android:id="@+id/skip"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop = "10dp"
+            android:layout_marginBottom = "10dp"
             android:text="@string/skip_string"/>
     </LinearLayout>
 

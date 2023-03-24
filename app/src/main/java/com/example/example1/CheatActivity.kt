@@ -50,6 +50,10 @@ class CheatActivity : AppCompatActivity() {
             binding.answerText.setText(answerText)
             setAnswerShownResult (true)
         }
+
+        binding.backButton.setOnClickListener {
+            finish()
+        }
     }
 
     private fun setAnswerShownResult(isAnswerShown: Boolean) {
